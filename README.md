@@ -1,4 +1,14 @@
-# Aisleriot
+# Aisleriot (macOS fork)
+
+This is a fork of [GNOME/aisleriot](https://github.com/GNOME/aisleriot) with a
+native macOS build added:
+
+- **[`macos-xcode/`](macos-xcode/)** — starter Xcode/SpriteKit project for a native macOS port.
+- **[Releases](https://github.com/AbdullahMufti/aisleriot/releases)** — download a ready-to-run `Aisleriot.dmg` for macOS (requires Homebrew GTK3/guile/librsvg, see release notes).
+
+The rest of this README is the original upstream documentation.
+
+---
 
 Aisleriot — also known as sol or solitaire — is a card game
 application that features over 80 different solitaire-type card
